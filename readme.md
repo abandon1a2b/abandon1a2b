@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api?username=hzjoyous&show_icons=true" title="hzjoyous's github stats" alt="hzjoyous's github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=thh9&show_icons=true" title="thh9's github stats" alt="thh9's github stats" />
 </a>
 
 
 
-[![thh - repo](https://github-readme-stats.vercel.app/api/pin/?username=hzjoyous&repo=thh)](https://github.com/hzjoyous/thh)
+[![thh - repo](https://github-readme-stats.vercel.app/api/pin/?username=thh9&repo=thh)](https://github.com/thh9/thh)
