@@ -5,10 +5,17 @@
 <img src="https://github-readme-stats.vercel.app/api?username=thh9&show_icons=true" title="thh9's github stats" alt="thh9's github stats" />
 </a>
 
+
+
+
 </p>
 
+<div align=center>
+<img src="https://github-profile-trophy.vercel.app/?username=thh9&column=-1"/>
+
+</div>
 
 
-[![thh - repo](https://github-readme-stats.vercel.app/api/pin/?username=thh9&repo=thh)](https://github.com/thh9/thh)
-
-[![ReadAsArr - repo](https://github-readme-stats.vercel.app/api/pin/?username=thousand-hands&repo=ReadAsArr)](https://github.com/thousand-hands/ReadAsArr)
+<div align="center"> 
+<img src="https://activity-graph.herokuapp.com/graph?username=thh9&theme=minimal" />
+</div>
