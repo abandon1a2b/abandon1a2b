@@ -14,8 +14,3 @@
 <img src="https://github-profile-trophy.vercel.app/?username=eatmeatball&column=-1"/>
 
 </div>
-
-
-<div align="center"> 
-<img src="https://activity-graph.herokuapp.com/graph?username=eatmeatball&theme=minimal" />
-</div>
