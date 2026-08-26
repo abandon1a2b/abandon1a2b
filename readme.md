@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm abandon1a2b 👋
-
-**Go developer · Open-source enthusiast · Building practical tools and community software**
+<img width="100%" src="./assets/profile-banner.svg" alt="Hi, I'm abandon1a2b — Building ideas, one commit at a time." />
 
 [![Blog](https://img.shields.io/badge/Blog-个人博客-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://abandon1a2b.github.io/)
 [![GooseForum](https://img.shields.io/badge/GooseForum-Live_Demo-00ADD8?style=flat-square&logo=go&logoColor=white)](https://gooseforum.online/)
@@ -23,16 +21,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-## GitHub stats
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abandon1a2b&theme=transparent" alt="GitHub profile details" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abandon1a2b&theme=transparent" alt="Top languages by repository" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abandon1a2b&theme=transparent" alt="GitHub stats" />
-
-</div>
 
 ## Featured projects
 
