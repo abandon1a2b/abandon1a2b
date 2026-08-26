@@ -11,9 +11,9 @@
 
 ## About me
 
-- 🛠️ 专注于 Go 后端、开发者工具与 Web 应用
+- 💡 喜欢用代码解决问题，也享受把想法慢慢做成作品
 - 🪿 正在维护 [GooseForum](https://github.com/leancodebox/GooseForum)，一个基于 Go 与 Vue 3 的现代论坛系统
-- 🌱 喜欢简单、可靠、易维护的软件，也乐于持续探索新技术
+- 🌱 保持好奇，持续学习，偶尔折腾一些有趣、实用的小工具
 
 ## Tech stack
 
@@ -23,6 +23,16 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+## GitHub stats
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abandon1a2b&theme=transparent" alt="GitHub profile details" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abandon1a2b&theme=transparent" alt="Top languages by repository" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abandon1a2b&theme=transparent" alt="GitHub stats" />
+
+</div>
 
 ## Featured projects
 
