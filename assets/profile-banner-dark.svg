@@ -2,12 +2,12 @@
   <title id="title">Hi, I'm abandon1a2b</title>
   <desc id="desc">A compact, soft sage banner with a curious goose at a laptop. Building ideas, one commit at a time.</desc>
   <style>
-    .surface { fill: #f6f8f4; stroke: #e6ebe2; }
-    .heading { fill: #29382e; }
-    .muted { fill: #69776c; }
-    .accent { fill: #64876a; }
-    .wash { fill: #e6eddf; }
-    .trail { stroke: #b2c2a9; }
+    .surface { fill: #1d2520; stroke: #303c33; }
+    .heading { fill: #e5ede1; }
+    .muted { fill: #a8b6a5; }
+    .accent { fill: #a3c59a; }
+    .wash { fill: #2b3a2d; }
+    .trail { stroke: #566c51; }
     .goose { animation: bob 4s ease-in-out infinite; }
     .spark { animation: twinkle 4s ease-in-out infinite; }
     @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-3px); } }

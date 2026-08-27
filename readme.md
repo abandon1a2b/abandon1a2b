@@ -1,6 +1,9 @@
 <div align="center">
 
-<img width="100%" src="./assets/profile-banner.svg" alt="Hi, I'm abandon1a2b — Building ideas, one commit at a time." />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg" />
+  <img width="100%" src="./assets/profile-banner.svg" alt="Hi, I'm abandon1a2b — Building ideas, one commit at a time." />
+</picture>
 
 [![Blog](https://img.shields.io/badge/Blog-个人博客-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://abandon1a2b.github.io/)
 [![GooseForum](https://img.shields.io/badge/GooseForum-Live_Demo-00ADD8?style=flat-square&logo=go&logoColor=white)](https://gooseforum.online/)
