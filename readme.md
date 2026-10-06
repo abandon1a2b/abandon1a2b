@@ -28,7 +28,7 @@
 
 | Project | Stack | Description | Stars |
 | --- | --- | --- | --- |
-| [GooseForum](https://github.com/leancodebox/GooseForum) | Go · Vue 3 | 轻量、现代的社区论坛系统 | ![Stars](https://img.shields.io/github/stars/leancodebox/GooseForum?style=flat-square) |
+| [GooseForum](https://github.com/leancodebox/GooseForum) | Go · React | 轻量、现代的社区论坛系统 | ![Stars](https://img.shields.io/github/stars/leancodebox/GooseForum?style=flat-square) |
 | [bigbrother](https://github.com/abandon1a2b/bigbrother) | Go · Fyne | 使用 Go 构建的桌面 GUI 工具 | ![Stars](https://img.shields.io/github/stars/abandon1a2b/bigbrother?style=flat-square) |
 | [rooster](https://github.com/leancodebox/rooster) | Go | 同时支持定时任务与常驻任务的调度工具 | ![Stars](https://img.shields.io/github/stars/leancodebox/rooster?style=flat-square) |
 | [dbhelper](https://github.com/leancodebox/dbhelper) | Go | 数据库辅助工具，可生成 GORM Model | ![Stars](https://img.shields.io/github/stars/leancodebox/dbhelper?style=flat-square) |
